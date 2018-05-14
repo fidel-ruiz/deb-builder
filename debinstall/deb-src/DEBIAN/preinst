@@ -1,0 +1,3 @@
+#!/bin/bash
+# Stop application before installing
+pm2 stop faber-api-mobile-poc

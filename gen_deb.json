@@ -1,0 +1,8 @@
+{
+  "name": "faber-api-mobile-poc",
+  "version": "1.0.0",
+  "description": "Faber Api",
+  "main": "server/index.js",
+  "author": "GingaOne",
+  "node_version":"4.6.2"
+}

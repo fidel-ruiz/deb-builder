@@ -1,0 +1,5 @@
+#!/bin/bash
+# Stop application before installing
+cd /gingasystems/apps/faber-api-mobile-poc
+npm install
+pm2 start server/index.js --name="faber-api-mobile-poc" -i 4
